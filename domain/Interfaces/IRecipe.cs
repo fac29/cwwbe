@@ -1,6 +1,6 @@
 using System;
 
-namespace domain.entities
+namespace domain.interfaces
 {
     public interface IRecipe
     {
