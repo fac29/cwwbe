@@ -1,0 +1,6 @@
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.csproj.AssemblyReference.cache
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.AssemblyInfoInputs.cache
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.AssemblyInfo.cs
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.csproj.CoreCompileInputs.cache
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.sourcelink.json

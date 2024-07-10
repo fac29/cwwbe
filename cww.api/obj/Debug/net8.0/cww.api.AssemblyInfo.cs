@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cww.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93ae23f1e9d62c850490bbbdaf983e2d0d82c8b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69f9f8d33e14f06a6888542995dac0377f100dd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("cww.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cww.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
