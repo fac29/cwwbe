@@ -19,4 +19,8 @@ namespace domain.entities
         // Method to delete ingredients
         void DeleteIngredient(Guid id);
     }
+
+    // Implementation of the IIngredient interface
+
+
 }

@@ -6,5 +6,8 @@ namespace domain.entities
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
+
     }
+
+
 }
