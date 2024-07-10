@@ -22,32 +22,4 @@ namespace domain.interfaces
         void DeleteIngredient(Guid id);
     }
 
-    // Implementation of the IIngredient interface
-
-    /* public class pIgredient : IIngredient
-    {
-        public Guid Id { get; set; }
-        public string Name { get; set; }
-
-        public void AddIngredient(IIngredient ingredient)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void DeleteIngredient(Guid id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<IIngredient> GetAllIngredients()
-        {
-            throw new NotImplementedException();
-        }
-
-        public IIngredient GetIngredientById(Guid id)
-        {
-            throw new NotImplementedException();
-        }
-    } */
-
 }

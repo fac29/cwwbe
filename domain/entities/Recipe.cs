@@ -1,8 +1,9 @@
 using System;
+using domain.interfaces;
 
 namespace domain.entities;
 
-public class Recipe
+public class Recipe : IRecipe
 {
     public Guid Id { get; set; }
     public string Title { get; set; } = string.Empty;
@@ -15,5 +16,25 @@ public class Recipe
     public int CookTime { get; set; }
 
     public string RecipeType { get; set; } = string.Empty;
+    public List<IQuantity> Quantities { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
+    public void CreateRecipe(IRecipe recipe)
+    {
+        throw new NotImplementedException();
+    }
+
+    public void DeleteRecipe(Guid id)
+    {
+        throw new NotImplementedException();
+    }
+
+    public IEnumerable<IRecipe> GetAllRecipes()
+    {
+        throw new NotImplementedException();
+    }
+
+    public IRecipe GetRecipeById(Guid id)
+    {
+        throw new NotImplementedException();
+    }
 }
