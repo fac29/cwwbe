@@ -27,14 +27,14 @@ namespace infra.Repositories
             _context = context;
         }
 
-        public async Task<IEnumerable<Recipe>> GetAllRecipesAsync()
+        public async Task<Recipe?> GetRecipeByIdAsync(Guid id)
         {
-            return await _context.Recipes.ToListAsync();
-        }
-
-        public async Task<Recipe> GetRecipeByIdAsync(Guid id)
-        {
-            return await _context.Recipes.FindAsync(id);
+            var recipe = await _context.Recipes.FindAsync(id);
+            if (recipe == null)
+            {
+                return null;
+            }
+            return recipe;
         }
 
         public async Task CreateRecipeAsync(Recipe recipe)
@@ -55,8 +55,9 @@ namespace infra.Repositories
 
         public IEnumerable<IRecipe> GetAllRecipes()
         {
-            throw new NotImplementedException();
+            return _context.Recipes.ToList();
         }
+
 
         public IRecipe GetRecipeById(Guid id)
         {
@@ -73,6 +74,5 @@ namespace infra.Repositories
             throw new NotImplementedException();
         }
 
-        // Implement other methods as needed, such as updating a recipe
     }
 }
