@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/cww.api.props" />
+</Project>

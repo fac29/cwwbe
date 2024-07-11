@@ -4,3 +4,15 @@
 /Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.AssemblyInfo.cs
 /Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.csproj.CoreCompileInputs.cache
 /Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.sourcelink.json
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/bin/Debug/net8.0/infra.deps.json
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/bin/Debug/net8.0/infra.runtimeconfig.json
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/bin/Debug/net8.0/infra.dll
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/bin/Debug/net8.0/infra.pdb
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/bin/Debug/net8.0/domain.dll
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/bin/Debug/net8.0/domain.pdb
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.csproj.Up2Date
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.dll
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/refint/infra.dll
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.pdb
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/infra.genruntimeconfig.cache
+/Users/thatgui/Documents/SoftwareEngineer/2024/fac/week8/cwwbe/infra/obj/Debug/net8.0/ref/infra.dll
